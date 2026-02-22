@@ -1,6 +1,6 @@
-## Hi there 👋
+## hey
 
-- 🌱 I’m currently learning Godot and GDScript
+- I'm currently messing around
 <!--
 **OlivierObielak/olivierobielak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
